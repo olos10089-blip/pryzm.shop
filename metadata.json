@@ -1,0 +1,6 @@
+{
+  "name": "PRYZM Concrete Home Art",
+  "description": "Luxury handmade architectural concrete decor, bespoke configurator, Cash on Delivery model, and interactive spatial preview.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
